@@ -26,8 +26,23 @@ grid-column: 1/-1;
 font-family: "Curse of the Zombie";
 font-size: x-large;
 }
+/* Tables */ 
 
-
+.parent-element {
+    text-align: center;
+  }
+  
+  .parent-element ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .parent-element ul li {
+    margin: 0;
+    padding: 0;
+  }
+  
 /*article */
 
 article { font-size: 20px;
