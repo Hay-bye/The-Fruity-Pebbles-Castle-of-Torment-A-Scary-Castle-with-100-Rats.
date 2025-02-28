@@ -2,9 +2,10 @@ body {
 display: grid;
 grid-template-rows: auto 1fr auto;
 grid-template-columns: 1fr;
-background-color: #023e42; 
+background-color: #2b0247; 
 margin: 0;
 Padding: 0; 
+text-align: center;
 font-family:  'ariel';
 color: whitesmoke;
 
@@ -84,13 +85,13 @@ width: 100%;
 
 .left-sidebar {
 
-background-color: darkblue;
+background-color: #2b0247;
 height: 200px; 
 
 }
 
 .right-sidebar{
-    background-color: darkblue;
+    background-color: #2b0247;
     height: 400px;
 
 }
@@ -99,7 +100,7 @@ height: 200px;
 
 .main-content {
 
-background-color: darkblue;
+background-color: #2b0247;
 padding: 20px;
 height: 500px; 
 font-family: "Melted Monster";
