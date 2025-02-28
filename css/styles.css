@@ -2,7 +2,7 @@ body {
 display: grid;
 grid-template-rows: auto 1fr auto;
 grid-template-columns: 1fr;
-background-color: darkblue; 
+background-color: #023e42; 
 margin: 0;
 Padding: 0; 
 font-family:  'ariel';
