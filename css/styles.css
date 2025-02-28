@@ -136,7 +136,18 @@ footer {
     align-items: center; /* Center vertically */
     height: 100vh;
   }
-  
+  .back-to-top-wrapper {
+    position: absolute;
+    right: 120px;
+    bottom: 20px;
+    width: 120px;
+    height: 120px;
+    display: flex
+;
+    justify-content: center;
+    align-items: center;
+    z-index: 500;
+}  
 /*Font */
 
 @font-face {
