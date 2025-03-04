@@ -15,10 +15,11 @@ color: whitesmoke;
 /* Style all font awesome icons */
 .fa {
     padding: 20px;
-    font-size: 30px;
+    font-size: 15px;
     width: 50px;
-    text-align: center;
+    text-align: left;
     text-decoration: none;
+    box-sizing: content-box;
   }
   
   /* Add a hover effect if you want */
@@ -35,6 +36,7 @@ color: whitesmoke;
     background: #2c4762;
     color: white;
   }
+
 /* Header */ 
 
 header {
